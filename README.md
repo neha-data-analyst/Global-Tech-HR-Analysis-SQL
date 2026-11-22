@@ -6,6 +6,24 @@ This project focuses on analyzing employee data using SQL and Google BigQuery.
 
 The objective is to explore workforce demographics, employee distribution, salary trends, department performance, and employee career growth to generate meaningful HR insights.
 
+Dataset
+
+The project uses the Global Tech HR dataset, which contains 7 CSV files:
+
+employees.csv
+
+departments.csv
+
+jobs.csv
+
+job_history.csv
+
+locations.csv
+
+countries.csv
+
+regions.csv
+
 Project Objectives
 
 Analyze employee distribution across departments.
@@ -16,29 +34,9 @@ Analyze employee hiring trends.
 
 Understand employee job history and career progression.
 
-Explore department-wise workforce distribution.
+Explore geographical distribution of employees.
 
 Generate actionable HR business insights.
-
-Dataset Description
-
-The project uses the Global Tech HR dataset.
-
-The dataset contains the following tables:
-
-employees
-
-departments
-
-jobs
-
-job_history
-
-locations
-
-countries
-
-regions
 
 Tools Used
 
@@ -48,32 +46,18 @@ Google BigQuery
 
 GitHub
 
-Key SQL Concepts
+Project Workflow
 
-SELECT, WHERE, GROUP BY, HAVING
+Dataset understanding
 
-Joins
+Data exploration and cleaning
 
-Subqueries
+SQL analysis
 
-Common Table Expressions (CTEs)
+Business insights
 
-Window Functions
+Recommendations
 
-Aggregate Functions
+Project Status
 
-Date Functions
-
-Key Business Insights
-
-Insights will be added after completing the SQL analysis.
-
-Project Structure
-
-SQL queries, dataset documentation, and analysis results will be organized in this repository.
-
-Author
-
-Neha Soni
-
-Aspiring Data Analyst | SQL | Tableau | Excel | Python
+In Progress
